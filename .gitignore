@@ -1,5 +1,8 @@
 # npm folders to ignore
 /node_modules
 
+#eslint
+.eslintcache
+
 # Mac OS System file
 .DS_Store
